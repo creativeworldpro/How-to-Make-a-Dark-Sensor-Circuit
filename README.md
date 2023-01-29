@@ -37,6 +37,9 @@ Component List :
 
 7. Power Source – DC 12v
 
+You can visit JLCPCB parts library here - https://jlcpcb.com/parts
+
+
 Specification of LDR - 
 
 •	Maximum power dissipation is 200mW
